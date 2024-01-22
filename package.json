@@ -1,0 +1,19 @@
+{
+  "name": "legendary-octo-garbanzo",
+  "version": "1.0.0",
+  "description": "Twitter bot that replies to screenshot bots a link on how to screenshot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reiyua/legendary-octo-garbanzo.git"
+  },
+  "author": "reiyua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reiyua/legendary-octo-garbanzo/issues"
+  },
+  "homepage": "https://github.com/reiyua/legendary-octo-garbanzo"
+}
