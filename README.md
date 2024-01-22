@@ -1,5 +1,5 @@
-# legendary-octo-garbanzo
-Twitter bot that replies to screenshot bots a link on how to screenshot. 
+# AntiPikaso
+Twitter bot that replies to people using that one a link on how to screenshot. 
 
 Idea based off of this tweet:
 
