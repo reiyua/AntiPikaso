@@ -1,2 +1,5 @@
 // bot credentials and other sensitive data
 config.json
+
+// node modules folder
+node_modules/

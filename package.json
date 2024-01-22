@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/reiyua/legendary-octo-garbanzo/issues"
   },
-  "homepage": "https://github.com/reiyua/legendary-octo-garbanzo"
+  "homepage": "https://github.com/reiyua/legendary-octo-garbanzo",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
 }
