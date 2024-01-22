@@ -1,5 +1,5 @@
 # AntiPikaso
-Twitter bot that replies to people using that one a link on how to screenshot. 
+Twitter bot that replies to people using that one bot a link on how to screenshot. 
 
 Idea based off of this tweet:
 
